@@ -1,7 +1,7 @@
 # Hi 👋 dear visitor!
 
 ## About Me
-- 💼 Work: <<Coming Soon>>
+- 💼 Work: < < Coming Soon > >
 - 🎓 Master's Degree in Computer Science: Big-Data Analytics - @ [University of Udine](https://www.uniud.it/it) - Italy
 - 📗 Bachelor Degree in Computer Science: @ [University of Udine](https://www.uniud.it/it)
 - 🔭 I am interested in AI, Datascience and Game Development
