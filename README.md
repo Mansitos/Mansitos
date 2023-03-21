@@ -1,4 +1,4 @@
-# Hi 👋 dear visitor!
+# Hi! 👋 dear visitor
 
 ## About Me
 - 💼 Work: < < Coming Soon > >
