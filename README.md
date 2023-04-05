@@ -1,7 +1,7 @@
 # Hi! 👋 Dear visitor
 
 ## 👦🏻 About Me
-- 💼 Work: < < Coming Soon > >
+- 💼 Work: MLOps Engineer at hpa.ai
 - 🎓 Master's Degree in Computer Science: Big Data Analytics - [University of Udine](https://www.uniud.it/it) - Italy
 - 📗 Bachelor Degree in Computer Science: [University of Udine](https://www.uniud.it/it) - Italy
 - 🔭 I am interested in AI, Data Science and Game Development
