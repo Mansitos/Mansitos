@@ -9,7 +9,7 @@
 - ⚙️ I have a Background in Mechanics and Mechatronics (high school studies)
 - 📸 Amateur Photographer - Sony Alpha 7II - [IG portfolio page](https://www.instagram.com/mansitos.ph)
 - 🎮 PC Gamer since I was a kid - Favourite genres: strategy, management, racing sims and harcorde shooters
-- 🚗 Motorsport Enthusiast - F1 Lover - Owner of BMW F20 120i MSport Stage 1
+- 🚗 Motorsport Enthusiast - F1 Lover - Owner of BMW F20 120i MSport Stage 1 (290cv/420Nm)
 - 🏋🏻‍♂️ Gym Amateur
   
 ## 📫 Contact Me on Social Media
