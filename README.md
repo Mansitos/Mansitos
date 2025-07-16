@@ -2,7 +2,12 @@
 
 ## 👦🏻 About Me
 - 💼 **MLOps Engineer** at [HPA | High Performance Analytics](https://hpa.ai)
-- 🍀 Free Time Unity Developer (repos: [1](https://github.com/Mansitos/Seek_And_Steal_Unity3D-Game), [2](https://github.com/Mansitos/Unity-Grid-Based-Terrain-Building-System), [3](https://github.com/Mansitos/FallingEggs), [4](https://github.com/Mansitos/Tile-Based-Terrain-Generation-System))
+- 🍀 Free Time Unity Developer:
+  - [1 - Seek and Steal](https://github.com/Mansitos/Seek_And_Steal_Unity3D-Game)
+  - [2 - Top-down survival game prototype](https://github.com/Mansitos/SurviGame)
+  - [3 - Grid-Based-Terrain-Building-System prototype](https://github.com/Mansitos/Unity-Grid-Based-Terrain-Building-System)
+  - [4 - FallingEggs](https://github.com/Mansitos/FallingEggs)
+  - [5 - Tile-Based-Terrain-Generation-System prorotype](https://github.com/Mansitos/Tile-Based-Terrain-Generation-System)
 - 🎓 Master's Degree in Computer Science: Big Data Analytics - [University of Udine](https://www.uniud.it/it) - Italy
 - 📗 Bachelor Degree in Computer Science: [University of Udine](https://www.uniud.it/it) - Italy
 - 🔭 I am interested in AI, Data Science and Game Development
