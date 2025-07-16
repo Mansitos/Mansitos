@@ -13,7 +13,8 @@
 - 🔭 I am interested in AI, Data Science and Game Development
 - ⚙️ I have a Background in Mechanics and Mechatronics (high school studies)
 - 📸 Amateur Photographer - Sony Alpha 7II - [IG portfolio page](https://www.instagram.com/mansitos.ph)
-- 🎮 PC Gamer since I was a kid - Favourite genres: strategy, management, racing sims and harcorde shooters
+- 🎮 PC Gamer since I was a little kid - Favourite genres: strategy, management, racing sims and harcorde shooters
+  - [Steam Profile](https://steamcommunity.com/id/mansitos/)
 - 🚗 Motorsport Enthusiast - F1 Lover
   
 ## 📫 Contact Me on Social Media
